@@ -1,4 +1,4 @@
-# Welcome to ISU Controlled Environment's Club
+# Welcome to the Iowa State University Controlled Environments Club
 
 ## This GitHub will be home to all the code for gathering, analyzing, and alerting on data
 
